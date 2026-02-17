@@ -20,17 +20,13 @@
 
 I focus on building maintainable, well-structured systems that prioritize scalability, clarity, and performance.
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 ## ◈ Featured Projects
-
-<p align="center">
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=santgm56&repo=SCDataExtractor_Project&theme=tokyonight)](https://github.com/santgm56/SCDataExtractor_Project)
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=santgm56&repo=MathCriptoApp&theme=tokyonight)](https://github.com/santgm56/MathCriptoApp)
 
-</p>
+
 
 ### SCDataExtractor_Project
 Academic project focused on **Object-Oriented Programming**, modular architecture, and structured data extraction. Developed across multiple semesters emphasizing system design.
@@ -50,27 +46,17 @@ Backend-based reporting system developed for real-world professional use.
 - Backend architecture design  
 - Database modeling & optimization  
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 ## ◈ Technical Snippets (Gists)
 
 <p align="center">
 
-<a href="https://gist.github.com/santgm56/feb9b7ce8d8487501615b37505b652df">
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=feb9b7ce8d8487501615b37505b652df&theme=tokyonight" />
-</a>
+[![hill_cipher.py](img/gist_1.png)](https://gist.github.com/santgm56/feb9b7ce8d8487501615b37505b652df)
 
-<a href="https://gist.github.com/santgm56/bebd64ff37d23db632dca75ccaf50800">
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=bebd64ff37d23db632dca75ccaf50800&theme=tokyonight" />
-</a>
+[![clean_backend_structure.py](img/gist_2.png)](https://gist.github.com/santgm56/bebd64ff37d23db632dca75ccaf50800)
 
-<a href="https://gist.github.com/santgm56/c74e22cd2260aadad5912a09d52bb09f">
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=c74e22cd2260aadad5912a09d52bb09f&theme=tokyonight" />
-</a>
+[![sql_query_optimization.sql](img/gist_3.png)](https://gist.github.com/santgm56/c74e22cd2260aadad5912a09d52bb09f)
 
 </p>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## ◈ Tech Stack
 
@@ -95,7 +81,6 @@ Backend-based reporting system developed for real-world professional use.
 ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge)
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## ◈ Professional Experience (Freelance)
 
@@ -107,8 +92,6 @@ Backend-based reporting system developed for real-world professional use.
 - Android & iOS deployment pipelines  
 - Relational database design (SQL & Oracle APEX)  
 - Business process automation with Power Platform  
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## ◈ GitHub Analytics
 
@@ -124,5 +107,5 @@ Backend-based reporting system developed for real-world professional use.
 </p>
 
 <p align="center">
-  <img src="dinosaur.gif" width="250"/>
+  <img src="img/dinosaur.gif" width="250"/>
 </p>
